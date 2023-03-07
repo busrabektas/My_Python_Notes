@@ -1,0 +1,1 @@
+It contains notes from https://www.youtube.com/@BroCodez Python Full Course free(https://www.youtube.com/watch?v=XKHEtdqhLK8)
